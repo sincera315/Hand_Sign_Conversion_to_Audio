@@ -41,11 +41,8 @@ This project converts sign language gestures into text using machine learning mo
 ```bash
 python main.py
 ```
-##Workflow
--Input: Live camera feed or uploaded video of sign language.
--Gesture Recognition: Detect hand gestures and translate them into text using the trained model.
--Text-to-Audio Conversion: Convert the recognized text into audio using a text-to-speech engine.
--Output: Play the generated audio to the user.
-##Contributing
-Contributions are welcome! If you'd like to improve this project, feel free to fork the repository and submit a pull request.
-
+## Workflow
+- Input: Live camera feed or uploaded video of sign language.
+- Gesture Recognition: Detect hand gestures and translate them into text using the trained model.
+- Text-to-Audio Conversion: Convert the recognized text into audio using a text-to-speech engine.
+- Output: Play the generated audio to the user.
